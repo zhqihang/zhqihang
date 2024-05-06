@@ -27,7 +27,9 @@
 
 <!-- 代码编写总时长 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhqihang&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhqihang&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- 项目语言比例 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
