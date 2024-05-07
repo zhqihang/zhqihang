@@ -94,12 +94,12 @@ Vue                      1 repo              ███░░░░░░░░�
 JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
-
-
-
  Last Updated on 06/05/2024 18:37:29 UTC
 <!--END_SECTION:waka-->
+</p>
 
+
+<p align="center">
 <!-- 项目语言比例 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhqihang&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
