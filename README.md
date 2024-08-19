@@ -36,6 +36,8 @@
 
 > 📦 26.4 kB Used in GitHub's Storage 
  > 
+> 🏆 86 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -69,18 +71,16 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 28 mins        ████████████████████████░   96.49 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-coding                   1 hr 30 mins        █████████████████████████   98.79 % 
-algorithm-journey        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -96,7 +96,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2024 18:39:17 UTC
+ Last Updated on 19/08/2024 18:41:12 UTC
 <!--END_SECTION:waka-->
 </p>
 
