@@ -60,16 +60,16 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shop_info_system         18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +84,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2024 18:41:34 UTC
+ Last Updated on 30/12/2024 18:44:17 UTC
 <!--END_SECTION:waka-->
 </p>
 
