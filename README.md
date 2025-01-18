@@ -19,15 +19,13 @@
 <!-- 代码编写总时长 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 26.9 kB Used in GitHub's Storage 
- > 
-> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,17 +60,18 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     29 mins             █████████████████████████   100.00 % 
+Java                     1 hr 1 min          ███████████████████████░░   92.79 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-IntelliJ IDEA            29 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shortlink                19 mins             █████████████████░░░░░░░░   68.22 % 
-leetcode_hot100          9 mins              ████████░░░░░░░░░░░░░░░░░   31.78 % 
+shortlink                57 mins             ██████████████████████░░░   86.03 % 
+leetcode_hot100          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -87,7 +86,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2025 18:42:47 UTC
+ Last Updated on 18/01/2025 18:40:58 UTC
 <!--END_SECTION:waka-->
 </p>
 
