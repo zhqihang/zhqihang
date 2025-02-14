@@ -60,18 +60,16 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 min               ████████████████░░░░░░░░░   65.39 % 
-XML                      0 secs              █████████░░░░░░░░░░░░░░░░   34.10 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shortlink                2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -86,7 +84,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2025 18:45:11 UTC
+ Last Updated on 14/02/2025 18:44:05 UTC
 <!--END_SECTION:waka-->
 </p>
 
