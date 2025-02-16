@@ -19,11 +19,15 @@
 <!-- 代码编写总时长 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%202%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 26.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,6 +35,45 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                63 commits          ████████░░░░░░░░░░░░░░░░░   31.98 % 
+🌆 Daytime                66 commits          ████████░░░░░░░░░░░░░░░░░   33.50 % 
+🌃 Evening                68 commits          █████████░░░░░░░░░░░░░░░░   34.52 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Thursday                 45 commits          ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Saturday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Sunday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -43,7 +86,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 18:40:56 UTC
+ Last Updated on 16/02/2025 18:41:37 UTC
 <!--END_SECTION:waka-->
 </p>
 
