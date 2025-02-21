@@ -19,13 +19,15 @@
 <!-- 代码编写总时长 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 26.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,16 +62,18 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 min               ██████████████████░░░░░░░   73.91 % 
+Markdown                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+QHDB                     2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +88,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2025 18:45:21 UTC
+ Last Updated on 21/02/2025 18:44:27 UTC
 <!--END_SECTION:waka-->
 </p>
 
