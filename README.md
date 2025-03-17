@@ -60,17 +60,16 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sst                      49 mins             ████████████████████████░   97.86 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -85,7 +84,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2025 18:45:07 UTC
+ Last Updated on 17/03/2025 18:46:00 UTC
 <!--END_SECTION:waka-->
 </p>
 
