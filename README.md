@@ -19,7 +19,7 @@
 <!-- 代码编写总时长 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,20 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     50 mins             ████████████████████████░   97.58 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+design-patterns          39 mins             ███████████████████░░░░░░   76.24 % 
+大话设计模式JAVACode           9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+untitled                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +88,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2025 18:48:39 UTC
+ Last Updated on 20/03/2025 18:45:41 UTC
 <!--END_SECTION:waka-->
 </p>
 
