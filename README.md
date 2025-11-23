@@ -62,19 +62,16 @@ Sunday                   34 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 mins              ████████████████░░░░░░░░░   63.18 % 
-XML                      1 min               █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Java                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PaiSmart-main            8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -90,7 +87,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2025 18:47:32 UTC
+ Last Updated on 23/11/2025 18:47:48 UTC
 <!--END_SECTION:waka-->
 </p>
 
