@@ -19,61 +19,20 @@
 <!-- 代码编写总时长 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 27.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                65 commits          ████████░░░░░░░░░░░░░░░░░   31.86 % 
-🌆 Daytime                66 commits          ████████░░░░░░░░░░░░░░░░░   32.35 % 
-🌃 Evening                73 commits          █████████░░░░░░░░░░░░░░░░   35.78 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Thursday                 45 commits          ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Sunday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -87,7 +46,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 18:53:15 UTC
+ Last Updated on 02/01/2026 18:52:32 UTC
 <!--END_SECTION:waka-->
 </p>
 
