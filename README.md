@@ -27,11 +27,11 @@
 
 > 📦 27.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -77,17 +77,17 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     9 repos             ████████████████░░░░░░░░░   64.29 % 
-CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Java                     9 repos             ███████████████░░░░░░░░░░   60.00 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 27/03/2026 19:22:47 UTC
+ Last Updated on 28/03/2026 19:06:55 UTC
 <!--END_SECTION:waka-->
 </p>
 
