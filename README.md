@@ -19,6 +19,8 @@
 <!-- 代码编写总时长 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2027%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -91,7 +93,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:02:12 UTC
+ Last Updated on 29/07/2026 19:52:58 UTC
 <!--END_SECTION:waka-->
 </p>
 
